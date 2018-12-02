@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: SaferSky
 subtitle:
-description:
+description: Personal Blog
 keywords:
-author: John Doe
-language:
-timezone:
+author: SaferSky
+language: en
+timezone: PST
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://safersky.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

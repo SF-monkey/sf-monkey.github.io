@@ -17,6 +17,7 @@ menu:
   Archives: /archives
   Tags: /tags
   Categories: /categories
+  About: /about
   #XXX: /xxx
 
 # Favicon
@@ -43,12 +44,14 @@ pwa:
 # ---------------
 highlight_theme: default
 
-# code_word_wrap: true or false
+code_word_wrap: true
 
 # Nav settings
 # ---------------
-#social:
-  #icon_name: url
+social:
+  github: https://github.com/SaferSky
+  twitter: https://twitter.com/safersky
+  weibo: https://www.weibo.com/safersky
 
 # Algolia search
 # ---------------
@@ -128,7 +131,7 @@ wordcount:
 
 toc:
   enable: true
-  # number: true
+  number: true
 
 post_copyright:
   enable: true
@@ -136,9 +139,9 @@ post_copyright:
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 # Please see doc for more details: https://molunerfinn.com/hexo-theme-melody-doc/#/theme-config?id=auto-excerpt
-# auto_excerpt:
-#   enable: false
-#   length: 150
+auto_excerpt:
+  enable: true
+  length: 150
 
 # slide
 # For reveal.js config, see https://github.com/hakimel/reveal.js#configuration
@@ -219,7 +222,7 @@ disqus:
 
 # Footer Settings
 # ---------------
-since: 2013
+since: 2018
 
 # footer_custom_text:
 
@@ -252,7 +255,7 @@ busuanzi:
   #Name: url
 
 # Follow Me Button
-# follow:
-#   enable: true
-#   url: ''
-#   text: ''
+follow:
+  enable: true
+  url: 'https://github.com/SaferSky'
+  text: 'Follow Me'
