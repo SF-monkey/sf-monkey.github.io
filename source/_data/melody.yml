@@ -224,7 +224,7 @@ valine:
   pageSize: 10
   avatar: mp
   lang: en
-  placeholder: Leave your comment
+  placeholder: Leave a 
   guest_info: nick,mail,link
 
 # Footer Settings
