@@ -178,11 +178,11 @@ slide:
 # Share System
 # ---------------
 addThis:
-  enable: false
-  #pubid: 
+  enable: true
+  pubid: ra-5c121b084f8763e9
 
 sharejs:
-  enable: true
+  enable: false
   disabled_sites: 
 
 # Comments System
@@ -224,7 +224,7 @@ valine:
   pageSize: 10
   avatar: mp
   lang: en
-  placeholder: Leave a 
+  placeholder: Leave a comment
   guest_info: nick,mail,link
 
 # Footer Settings
