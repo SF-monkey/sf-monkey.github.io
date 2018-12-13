@@ -196,12 +196,12 @@ disqus:
   # enable: false
   # uid:
 
-gitment:
-  enable: true
-  owner: SaferSky
-  repo: safersky.github.io
-  client_id: dfa6f49fe7dded5092b2
-  client_secret: 6c2382c28efd7ae12cc44a6f9f5170997e70ca99
+# gitment:
+  # enable: true
+  # owner: SaferSky
+  # repo: safersky.github.io
+  # client_id: dfa6f49fe7dded5092b2
+  # client_secret: 6c2382c28efd7ae12cc44a6f9f5170997e70ca99
 
 # gitalk:
 #   enable: false
@@ -214,18 +214,18 @@ gitment:
 ####   See https://github.com/gitalk/gitalk/issues/125
 #   js: https://cdn.jsdelivr.net/gh/upupming/gitalk@36368e5dffd049e956cdbbd751ff96c28d8255cf/dist/gitalk.min.js
 
-# valine comment system. https://valine.js.org
-# valine:
-#   enable: false # if you want use valine,please set this value is ture
-#   appId:  # leancloud application app id
-#   appKey:  # leancloud application app key
-#   notify: false # valine mail notify (true/false) https://github.com/xCss/Valine/wiki
-#   verify: false # valine verify code (true/false)
-#   pageSize: 10 # comment list page size
-#   avatar: mm # gravatar style https://valine.js.org/#/avatar
-#   lang: zh-cn # i18n: zh-cn/en
-#   placeholder: Just go go # valine comment input placeholder(like: Please leave your footprints )
-#   guest_info: nick,mail,link #valine comment header inf
+valine comment system. https://valine.js.org
+valine:
+  enable: true
+  appId:  xtKK32pJRlu2mi0IuCB42c8A-gzGzoHsz
+  appKey:  GeBKuSs26J235nAaKFzEh6eO
+  notify: false # valine mail notify (true/false) https://github.com/xCss/Valine/wiki
+  verify: false # valine verify code (true/false)
+  pageSize: 10 # comment list page size
+  avatar: mm # gravatar style https://valine.js.org/#/avatar
+  lang: en # i18n: zh-cn/en
+  placeholder: Leave your comment
+  guest_info: nick,mail,link #valine comment header inf
 
 # Footer Settings
 # ---------------
