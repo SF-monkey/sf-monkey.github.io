@@ -125,10 +125,10 @@ cdn:
 # ---------------
 avatar: 
 
-top_img: true # false or url of img 
+top_img: true
 
 post_meta:
-  date_type: created # created or updated 
+  date_type: created
   categories: true
   tags: true
 
