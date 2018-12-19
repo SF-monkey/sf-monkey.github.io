@@ -14,8 +14,8 @@ top_img: http://steam.cryotank.net/wp-content/gallery/godeater2/God-Eater-2-02-H
 
 ***
 
-### <font color="Blue" size="5">简易代码 | Quick Codes  
-(HK ver ONLY as offsets are different across regions)</font>
+### <font color="Blue" size="5">简易代码 | Quick Codes</font>  
+ <font color="Blue" size="5"><b>(HK ver ONLY as offsets are different across regions)</b></font>
 
 Max Money  
 ```
