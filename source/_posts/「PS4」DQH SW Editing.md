@@ -106,5 +106,5 @@ XXXX DD00 TT01 NNNN SS00 NNNN SS00 NNNN SS00 GG00
 
 ## 全装备ID和技能列表
 请下载文档（只翻译了饰品和技能）  
-[MEGA](https://mega.nz/#!jsN0DIgL!SSR18NkqgsNJovvRlQ-GFXAWrYQj-CeLOg0sql3IciQ)  
-[百毒](https://pan.baidu.com/s/1gAy04d4ac-d6zuYzSMVqAg)  
+[MEGA](https://mega.nz/#!nsNHWC4K!RbfeulEzFF15P0O1fw2dN8EQiS3beog222K9F2EQHL4)  
+[百毒](https://pan.baidu.com/s/1U3DZcJ1U-_NPB_hwUVd1Aw)  
