@@ -1,6 +1,11 @@
 ---
 title: 「PS4港中Ver」噬神者2狂怒解放 SW修改教程
 top_img: http://steam.cryotank.net/wp-content/gallery/godeater2/God-Eater-2-02-HD-textless.png
+tags:
+	- SaveWizard
+categories:
+	- PS4
+date: 2018-12-14
 ---
 
 关于噬神者2RB，日版修改器能够修改的选项很多，反观SW只有两条，而且经过测试修改还无效。。。。  
