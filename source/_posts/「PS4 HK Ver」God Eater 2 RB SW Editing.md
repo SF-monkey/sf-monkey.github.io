@@ -2,9 +2,9 @@
 title: 「PS4港中Ver」噬神者2狂怒解放 SW修改教程
 top_img: http://steam.cryotank.net/wp-content/gallery/godeater2/God-Eater-2-02-HD-textless.png
 tags:
-	- SaveWizard
+  - SaveWizard
 categories:
-	- PS4
+  - PS4
 date: 2018-12-14
 ---
 
