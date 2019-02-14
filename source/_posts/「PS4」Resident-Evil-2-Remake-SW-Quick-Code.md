@@ -18,7 +18,7 @@ Let's cut the bullshit.
 4. Can get S+, as long as meeting the number of saves / total play time requirements.  
 
 
-* Leon - AutoSave - ATM-4    
+### Leon - AutoSave - ATM-4    
 ```
 80020024 2D727526
 F5C58BAA 01000000
@@ -28,10 +28,10 @@ F5C58BAA 01000000
 08000020 000000F2
 08000030 00000000
 08000040 0000001C
-08000050 00000004 
+08000050 00000004
 ```
 
-* Claire - AutoSave - ATM-4
+### Claire - AutoSave - ATM-4
 ```
 80020024 2D727526
 F5C58BAA 01000000
@@ -44,14 +44,14 @@ F5C58BAA 01000000
 08000050 00000004
 ```
 
-* Infinite Health
+### Infinite Health
 ```
 80010008 D3A8A66D
 633EECF7 00000000
 28000010 7FFFFFFFF
 ```
 
-* Change Difficulty  
+### Change Difficulty  
 Replace 'xx' with:  
 `00`: ASSISTED  
 `01`: STANDARD  
