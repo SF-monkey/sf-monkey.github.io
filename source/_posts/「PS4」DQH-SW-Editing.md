@@ -1,12 +1,12 @@
+---
 title: 「PS4」勇者斗恶龙英雄集结 SW饰品修改
 top_img: https://images3.alphacoders.com/630/630540.jpg
-tags:
-  - SaveWizard
-categories:
-  - PS4
-date: 2019-01-02
+tags: [PS4, SaveWizard]
+categories: [Game Hack]
 ---
 
+>最近打折入的老游戏。作为11区长盛不衰的国民级IP，画面真的不错，喜欢！
+<!-- more -->
 ## ？？？
 
 我不明白，这个奖杯的意义何在？？  
