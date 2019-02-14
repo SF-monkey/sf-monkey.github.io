@@ -78,7 +78,7 @@ local_search:
 # Please see doc for more details: https://molunerfinn.com/hexo-theme-melody-doc/#/third-party-support?id=mathjax
 # ---------------
 mathjax:
-  enable: true
+  enable: false
   cdn: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML
 
 

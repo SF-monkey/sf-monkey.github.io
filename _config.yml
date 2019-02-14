@@ -44,21 +44,6 @@ highlight:
   auto_detect: false
   tab_replace:
   
-# Home page setting
-# path: Root path for your blogs index page. (default = '')
-# per_page: Posts displayed per page. (0 = disable pagination)
-# order_by: Posts order. (Order by date descending by default)
-index_generator:
-  path: ''
-  per_page: 10
-  order_by: -date
-
-tag_generator:
-  per_page: 40  #值为0表示不分页，按需填写
-  
-  category_generator:
-  per_page: 40  #值为0表示不分页，按需填写
-  
 # Category & Tag
 default_category: uncategorized
 category_map:
@@ -88,11 +73,11 @@ deploy:
   repo: https://github.com/safersky/safersky.github.io.git
   branch: master
 
-kramed:
-  gfm: true
-  pedantic: false
-  sanitize: false
-  tables: true
-  breaks: true
-  smartLists: true
-  smartypants: true
+# kramed:
+  # gfm: true
+  # pedantic: false
+  # sanitize: false
+  # tables: true
+  # breaks: true
+  # smartLists: true
+  # smartypants: true
