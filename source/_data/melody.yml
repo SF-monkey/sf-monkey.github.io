@@ -131,7 +131,6 @@ post_meta:
   date_type: created
   categories: true
   tags: true
-  about: true
 
 # Please see doc for more details: https://molunerfinn.com/hexo-theme-melody-doc/#/additional-package-support?id=word-counting
 wordcount:
