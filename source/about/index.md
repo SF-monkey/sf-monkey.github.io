@@ -16,7 +16,7 @@ Thats it! Thats all about me! A data guy! At least thats what my resume tells me
 Waht? Not the guy you are looking for? Well, I tried. I'll be better. Thank You.  
 
 Getting a bit curious on how I did this?  
-Code myself in **[R](https://en.wikipedia.org/wiki/R_%28programming_language%29)** 😀
+Code myself in **[R](https://en.wikipedia.org/wiki/R_%28programming_language%29)** 😁
 
 ```R
 # Get all the libraries to dissect myself

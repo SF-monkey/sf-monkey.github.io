@@ -5,8 +5,8 @@ tags: [PS4, SaveWizard]
 categories: [Game Hack]
 ---
 
->Here's why Mr.X is much more invincible than it was: Now his got a fedora!!
-![](https://pixabay.com/get/e832b90e2df7023ecd1f4404e04c4595e676ffd41cb4114096f5c478a7/seamless-1781533.svg)
+>Here's why Mr.X is much more invincible than it was: Now he's got a fedora!!
+![](https://i.ytimg.com/vi/3PoWMBvvX9c/maxresdefault.jpg)
 <!-- more -->
 
 ## Quick Code
