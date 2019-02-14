@@ -3,11 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: SaferSky
+title: Safer's Corner Workshop
 subtitle:
 description: Personal Blog
 keywords:
 author: SaferSky
+email: fyysafer@hotmail.com
 language: en
 timezone: PST
 
