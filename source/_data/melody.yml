@@ -187,10 +187,10 @@ sharejs:
 
 # Comments System
 # ---------------
-disqus:
-  enable: true 
-  shortname: safersky
-  count: true
+# disqus:
+  # enable: true 
+  # shortname: safersky
+  # count: true
 
 # laibili:
   # enable: false
