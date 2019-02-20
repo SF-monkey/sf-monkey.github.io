@@ -51,9 +51,9 @@ code_word_wrap: true
 # And you need to add the `fa` or `fab` prefix by your self.
 # ---------------
 social:
-  github fa: https://github.com/SaferSky
-  envelope fa: mailto:fyysafer@hotmail.com
-  linkedin fa: https://www.linkedin.com/in/saferfang/
+  github fab: https://github.com/SaferSky
+  envelope fas: mailto:fyysafer@hotmail.com
+  linkedin fab: https://www.linkedin.com/in/saferfang/
 
 # Algolia search
 # ---------------
@@ -125,7 +125,7 @@ scripts:
 cdn:
   css:
     fontawesome: https://cdn.jsdelivr.net/npm/font-awesome@latest/css/font-awesome.min.css
-    # fontawesomeV5: https://use.fontawesome.com/releases/v5.3.1/css/all.css
+    fontawesomeV5: https://use.fontawesome.com/releases/v5.3.1/css/all.css
   js:
     anime: https://cdn.jsdelivr.net/npm/animejs@latest/anime.min.js
     jquery: https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js
