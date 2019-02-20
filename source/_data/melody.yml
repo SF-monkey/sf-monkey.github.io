@@ -54,7 +54,8 @@ social:
   github fab: https://github.com/SaferSky
   envelope fas: mailto:fyysafer@hotmail.com
   weibo fab: https://www.weibo.com/safersky
-  cdn:
+  
+cdn:
   css:
     fontawesome: https://cdn.jsdelivr.net/npm/font-awesome@latest/css/font-awesome.min.css
     fontawesomev5: https://use.fontawesome.com/releases/v5.7.2/css/all.css
