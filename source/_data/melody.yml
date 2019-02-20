@@ -47,11 +47,13 @@ highlight_theme: default
 code_word_wrap: true
 
 # Nav settings
+# see the icon_name in fontawesome website.
+# And you need to add the `fa` or `fab` prefix by your self.
 # ---------------
 social:
-  github: https://github.com/SaferSky
-  email: mailto:fyysafer@hotmail.com
-  weibo: https://www.weibo.com/safersky
+  github fab: https://github.com/SaferSky
+  envelope fas: mailto:fyysafer@hotmail.com
+  weibo fab: https://www.weibo.com/safersky
 
 # Algolia search
 # ---------------
@@ -82,6 +84,13 @@ mathjax:
   cdn: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML
 
 
+# KaTeX
+# ---------------
+katex:
+  enable: true
+  cdn:
+    css: https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css
+  
 # Toggle fireworks (IE >= 10)
 # ---------------
 fireworks: true
@@ -91,6 +100,8 @@ fireworks: true
 baidu_analytics: 
 
 google_analytics: UA-130949423-1
+
+tencent_analytics:
 
 # stylesheets loaded in the <head>
 # ---------------
@@ -113,13 +124,14 @@ scripts:
 # ---------------
 cdn:
   css:
-    fontawesome: https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css
+    fontawesome: https://cdn.jsdelivr.net/npm/font-awesome@latest/css/font-awesome.min.css
+    # fontawesomeV5: https://use.fontawesome.com/releases/v5.3.1/css/all.css
   js:
-    anime: /js/third-party/anime.min.js
-    jquery: /js/third-party/jquery.min.js
-    fancybox: /js/third-party/jquery.fancybox.min.js
-    velocity: /js/third-party/velocity.min.js 
-    velocity-ui: /js/third-party/velocity.ui.min.js 
+    anime: https://cdn.jsdelivr.net/npm/animejs@latest/anime.min.js
+    jquery: https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js
+    fancybox: https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.js
+    velocity: https://cdn.jsdelivr.net/npm/velocity-animate@latest/velocity.min.js
+    velocity-ui: https://cdn.jsdelivr.net/npm/velocity-ui-pack@latest/velocity.ui.min.js
 
 # Post info settings
 # ---------------
@@ -128,7 +140,7 @@ avatar:
 top_img: true
 
 post_meta:
-  date_type: created
+  date_type: created # created or updated
   categories: true
   tags: true
 
