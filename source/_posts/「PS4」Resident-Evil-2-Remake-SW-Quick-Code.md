@@ -45,6 +45,16 @@ F5C58BAA 01000000
 ```
 
 ### Infinite Health
+You **CAN** still be one-shotted...  
+* `Eat your face`: by Ivy   
+* `Hunted`: by Giant Alligator  
+* `Burned`: by the bitch knowing what she's doing  
+* `Head crushed`: by Mr. X  
+* `Skewered`: by Super Tyrant  
+* `Smashed`: by the container in G (Stage 2) fight  
+* `Captured`: by the police chief  
+* `Blown up`: if lab's self-destruct timer runs out  
+* `Human Mincemeat`: eaten by G (Stage 5)  
 ```
 80010008 D3A8A66D
 633EECF7 00000000
