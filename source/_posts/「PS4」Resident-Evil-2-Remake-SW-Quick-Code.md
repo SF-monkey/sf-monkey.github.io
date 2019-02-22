@@ -79,7 +79,7 @@ The following section is for items modding.
 00 00 00 00 (LINE for AMMO AMOUNTS, E7030000 IS 999.MAXIMUM)
 2D 72 75 26 (START of 2ND INVENTORY SLOT in ITEM BOX)
 ```
-4. Replace the above code chunk with what you need.
+4. Edit the above code chunk with what you need.
 5. Full List of Item IDs: [点击这里](https://docs.qq.com/doc/DQnlqT1dtQ2FVZ1N6) or [HERE](https://docs.google.com/spreadsheets/d/1TUDs7BtM5AurD3oepdAfRXfRkmqa6hKpVPHL2SqfO58/edit?usp=sharing)
 
 ### PS: Avoid The Mess!
