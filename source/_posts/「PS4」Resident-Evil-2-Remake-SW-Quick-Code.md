@@ -83,7 +83,7 @@ The following section is for items modding.
 5. Full List of Item IDs: [点击这里](https://docs.qq.com/doc/DQnlqT1dtQ2FVZ1N6) or [HERE](https://docs.google.com/spreadsheets/d/1TUDs7BtM5AurD3oepdAfRXfRkmqa6hKpVPHL2SqfO58/edit?usp=sharing)
 
 ### PS: Avoid The Mess!
-The reason I recommend editing the save in the very beginning of the game is that the addresses for item boxes vary by their location. More item boxes you encounter, higher chance of multiple addresses when you search for a particular item.  
+The reason I recommend editing the save in the very beginning of the game is that the addresses for item boxes vary by their locations. More item boxes you encounter, higher chance of multiple addresses when you search for a particular item.  
 If you do need to edit the save after passing the story to a certain point, one possible approach is to put a fresh item, say a new type of ammo box, into the item box -- save -- extract the decrypted save -- changes the item amount with the official SW quick code -- extract the decrypted save -- compare hex.  
 This would possibly help you locate the address for the new item box.  
 Still, the best practice is to avoid this mess!
