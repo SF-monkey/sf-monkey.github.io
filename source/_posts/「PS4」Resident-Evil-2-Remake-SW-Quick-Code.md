@@ -64,7 +64,7 @@ Replace 'xx' with:
 
 ## Advanced Items Modding
 
-The following sections is for items modding.  
+The following section is for items modding.  
 **Before trying to edit anything, it is essential to backup your saves!!!**  
 
 1. Load your game save (Auto Save or Manual Save), it is best that you edit your save **right after you encounter your first item box**. I will explain why down below.  
