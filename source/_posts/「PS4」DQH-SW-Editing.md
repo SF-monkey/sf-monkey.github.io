@@ -109,6 +109,5 @@ XXXX DD00 TT01 NNNN SS00 NNNN SS00 NNNN SS00 GG00
 63 金属史莱姆遭遇率  
 
 ## 全装备ID和技能列表
-请下载文档（只翻译了饰品和技能）  
-[MEGA](https://mega.nz/#!nsNHWC4K!RbfeulEzFF15P0O1fw2dN8EQiS3beog222K9F2EQHL4)  
-[百毒](https://pan.baidu.com/s/1U3DZcJ1U-_NPB_hwUVd1Aw)  
+请在线浏览文档（只翻译了饰品和技能）  
+[有道云](http://note.youdao.com/noteshare?id=dad99bd25ee3997075c24c0bebc40a91)  
