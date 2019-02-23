@@ -90,7 +90,7 @@ The following section is for items modding.
 2D 72 75 26 (START of 2ND INVENTORY SLOT in ITEM BOX)
 ```
 4. Edit the above code chunk with what you need.
-5. Full List of Item IDs: [点击这里](https://docs.qq.com/doc/DQnlqT1dtQ2FVZ1N6) or [HERE](https://docs.google.com/spreadsheets/d/1TUDs7BtM5AurD3oepdAfRXfRkmqa6hKpVPHL2SqfO58/edit?usp=sharing)
+5. Full List of Item IDs: [点击这里](http://note.youdao.com/noteshare?id=2b54e36d5e003a81b0658564d2c8c04e) or [HERE](https://docs.google.com/spreadsheets/d/1TUDs7BtM5AurD3oepdAfRXfRkmqa6hKpVPHL2SqfO58/edit?usp=sharing)
 
 ### PS: Avoid The Mess!
 The reason I recommend editing the save in the very beginning of the game is that the addresses for item boxes vary by their locations. More item boxes you encounter, higher chance of multiple addresses when you search for a particular item.  
