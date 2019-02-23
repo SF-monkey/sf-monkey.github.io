@@ -3,12 +3,12 @@
 # ---------------
 theme_color:
   enable: true
-  main: "#1EB980"
-  paginator: "#045D56"
-  button_hover: "#FF6859"
-  text_selection: "#FFCF44"
-  link_color: "#B15DFF"
-  hr_color: "#72DEFF"
+  main: "#344955"
+  paginator: "#4A6572"
+  button_hover: "#F9AA33"
+  text_selection: "#F9AA33"
+  link_color: "#4A6572"
+  hr_color: "#232F34"
 
 # Main menu navigation
 # ---------------
