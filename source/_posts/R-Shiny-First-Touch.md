@@ -9,7 +9,7 @@ categories: [Coding, R]
 <!-- more -->
 ## Hosting Dynamic Sites Here Are Like Dreams
 
-This is the problem I just realize. GitHub Pages is a static site hoster!  
-The only way to showcase my little work is by using HTML iframe.  
+One problem I just realize, is that GitHub Pages is a static site host!  
+The only way to showcase my little work is by the HTML iframe.  
 Better than noting tho :D  
-<iframe width="960" height="800" src="https://shiny.rcg.sfu.ca/u/youyangf/MyApp/" frameborder="0" allowfullscreen></iframe>
+<iframe width="960" height="750" src="https://shiny.rcg.sfu.ca/u/youyangf/MyApp/" frameborder="0" allowfullscreen></iframe>
