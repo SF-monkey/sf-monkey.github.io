@@ -12,4 +12,4 @@ categories: [Coding, R]
 One problem I just realize, is that GitHub Pages is a static site host!  
 The only way to showcase my little work is by the HTML iframe.  
 Better than noting tho :D  
-<iframe width="950" height="750" src="https://shiny.rcg.sfu.ca/u/youyangf/MyApp/" frameborder="0" allowfullscreen></iframe>
+<iframe width="900" height="750" src="https://shiny.rcg.sfu.ca/u/youyangf/MyApp/" frameborder="0" allowfullscreen></iframe>
