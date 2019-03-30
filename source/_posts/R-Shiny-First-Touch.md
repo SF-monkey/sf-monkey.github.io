@@ -1,11 +1,11 @@
 ---
 title: R Shiny First Touch
-top_img: https://shiny.rstudio.com/images/shinySiteBandOne.png
 tags: [R Shiny]
 categories: [Coding, R]
 ---
 
 >This is the first time that I experience building Shiny App.
+![](https://shiny.rstudio.com/images/shinySiteBandOne.png)
 <!-- more -->
 ## Hosting Dynamic Sites Here Are Like Dreams
 
