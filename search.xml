@@ -8,7 +8,7 @@
       <link href="/R-Shiny-First-Touch/"/>
       <url>/R-Shiny-First-Touch/</url>
       
-        <content type="html"><![CDATA[<blockquote><p>This is the first time that I experience building Shiny App.</p></blockquote><a id="more"></a><h2 id="hosting-dynamic-sites-here-is-like-dreams"><a class="markdownIt-Anchor" href="#hosting-dynamic-sites-here-is-like-dreams"></a> Hosting Dynamic Sites Here Is Like Dreams</h2><p>This is the problem I just realize. GitHub Pages is a static site hoster!<br>The only way to showcase my little work is by using HTML iframe.<br>Better than noting tho 😄</p><iframe width="900" height="600" src="https://shiny.rcg.sfu.ca/u/youyangf/MyApp/" frameborder="0" allowfullscreen></iframe>]]></content>
+        <content type="html"><![CDATA[<blockquote><p>This is the first time that I experience building Shiny App.</p></blockquote><a id="more"></a><h2 id="hosting-dynamic-sites-here-are-like-dreams"><a class="markdownIt-Anchor" href="#hosting-dynamic-sites-here-are-like-dreams"></a> Hosting Dynamic Sites Here Are Like Dreams</h2><p>This is the problem I just realize. GitHub Pages is a static site hoster!<br>The only way to showcase my little work is by using HTML iframe.<br>Better than noting tho 😄</p><iframe width="960" height="540" src="https://shiny.rcg.sfu.ca/u/youyangf/MyApp/" frameborder="0" allowfullscreen></iframe>]]></content>
       
       
       <categories>
