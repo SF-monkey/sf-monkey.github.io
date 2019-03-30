@@ -5,7 +5,7 @@ categories: [Coding, R]
 ---
 
 >This is the first time that I experience building Shiny App.
-![](https://i.imgur.com/JGaEufP.png)
+![](https://i.imgur.com/IZB6sWk.png)
 <!-- more -->
 ## Hosting Dynamic Sites Here Are Like Dreams
 
