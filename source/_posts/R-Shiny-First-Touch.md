@@ -12,6 +12,9 @@ categories: [Coding, R]
 One problem I just realize, is that GitHub Pages is a static site host!  
 The only way to showcase my little work is by the HTML iframe.  
 Better than noting tho :D  
+
+For fullscreen version, please visit: [https://safersky.shinyapps.io/shiny-climatechange/](https://safersky.shinyapps.io/shiny-climatechange/).
+
 <iframe width="900" height="750" src="https://safersky.shinyapps.io/shiny-climatechange/" frameborder="0" allowfullscreen></iframe>
 
 ## Side Note
