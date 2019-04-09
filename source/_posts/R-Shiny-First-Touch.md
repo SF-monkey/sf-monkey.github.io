@@ -24,7 +24,10 @@ I can make a drop-down menu for users to choose a specific Province/City, then u
 Also, users should be able to switch to some other databases of their choices, like the Canada Min/Max Temperature database.  
 I will be updating this Shiny App, if I have time...  
 
-Update:  
+## Update
+Apr/08/2019
+Added sidebars for individual tabs. 
+ 
 Apr/04/2019
 Added 2nd page for users to interact with Temperature data.
 Province/City selection supported.
