@@ -26,7 +26,7 @@ I will be updating this Shiny App, if I have time...
 
 ## Update
 Apr/08/2019
-Added sidebars for individual tabs. 
+Added sidebar panels for individual tabs. 
  
 Apr/04/2019
 Added 2nd page for users to interact with Temperature data.
