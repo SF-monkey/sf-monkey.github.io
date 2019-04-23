@@ -9,7 +9,7 @@ categories: [Game Hack]
 ![](https://hdqwalls.com/download/the-surge-game-5k-sd-2560x1440.jpg)
 <!-- more -->
 
-## Weapon proficiency
+## Weapon proficiency & Core level
 Weapon proficiency use 6 digits float point.  
 For example, level `31.117435` in terms of hex is `0x41f8f082`. And this hex is exactly what you need to put into the editor in the advance mode.  Due to the crazy high damage in high weapon proficiency, most enemies will get one-shoted. So if you want to farm some gears, make sure the proficiency is at most Lv.30.
 
@@ -22,14 +22,18 @@ The following are the memory address for weapon proficiency:
 0x000005DD 461C3C00 (Twin-Rigged: 9999 weapon proficiency)
 ```
 
-At last, here the code for `All weapon proficiency 9999`:
+At last, some quick codes:
 ```
+All weapon proficiency Max
 200005CC 3C1C4600
 200005D0 3C1C4600
 200005D4 3C1C4600
 200005D8 3C1C4600
 200005DC 3C1C4600
 200005E0 00803F00
+
+Core Level Max
+10000552 0000270F
 ```
 
 ## Item Modding
