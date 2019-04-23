@@ -1,12 +1,12 @@
 ---
 title: 「PS4」The Surge SW Editing
-top_img: https://hdqwalls.com/download/the-surge-game-5k-sd-2560x1440.jpg
+top_img: https://b1.gmbox.ru/c/135291.jpg
 tags: [PS4, SaveWizard]
 categories: [Game Hack]
 ---
 
 >Lovely! PS Plus finally give away The Surge! This is a DarkSoul-like RPG, with amazing roadmap and boss fight design.
-![](https://b1.gmbox.ru/c/135291.jpg)
+![](https://hdqwalls.com/download/the-surge-game-5k-sd-2560x1440.jpg)
 <!-- more -->
 
 ## Weapon proficiency
