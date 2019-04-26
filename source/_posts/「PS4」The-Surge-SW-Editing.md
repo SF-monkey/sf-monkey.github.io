@@ -45,7 +45,7 @@ Here is the structured piece of memory for one item, every slot is quoted with a
 00 00 00 00 00 00 00 00<00>00 00 00 00 00 00 00
 
 Slot 1: Item ID
-Slot 2: Gear level (Gear/Weapon MAX is 0A in NG+)
+Slot 2: Gear level (Gear/Weapon MAX is 14 in NG+3 onward)
 Slot 3: Item quantity (For crafting materials)
 Slot 4: Equip status (None-00, Right Side-08, Left Side-18, Weapon-28)
 Slot 5: Implants slot
@@ -64,7 +64,13 @@ Vital Boost v.3 ---- 1812A3BD (+2)
 Vital Boost v.5 ---- 1812A3BF (+2)
 ```
 
-## Some of the useful item IDs
+## Some useful item IDs
 Please visit the document:
 [点击这里](http://note.youdao.com/noteshare?id=6f2066a6387f84474be1ca9d22a4342d)  
 [HERE](https://www.evernote.com/shard/s339/sh/d73e2e72-6b66-4bce-8441-7d015677fb05/7ec1d29e7498b95f6e98bc09317945c7)
+
+## Caution
+Each playthrough increases the Gear/Weapon's MK level limit by 5, and the Max level is 20 in NG+++(4th playthrough) onward.  
+But if you ever try to mod the gear or weapon beyond the limit of that playthrough, the game will break. So don't go crazy about it.  
+Also, after your NG+++ playthrough, you will be rewarded the final CREO ps04 Limited Rig with full 36 slots. So far I haven't tried to mod any rigs yet. If you work this out already, let me know ;)
+![](https://i.imgur.com/j3bw8lr.jpg)
