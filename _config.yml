@@ -71,7 +71,7 @@ theme: melody
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/safersky/safersky.github.io.git
+  repo: https://github.com/safersky/sf-monkey.github.io.git
   branch: master
 
 # kramed:
